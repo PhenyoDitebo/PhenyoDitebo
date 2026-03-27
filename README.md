@@ -1,11 +1,12 @@
 # My name is Phenyo Ditebo.
 
 🤖 I am a Mechatronics and Robotics Engineering student @UWaterloo. </br>
-🦾 I specialise in Robotics Software and Machine/Electrical Design. </br>
+🦾 I specialise in Robotics Software and Embedded Systems. </br>
 📽️ I also like to make videos about my projects. You can find them here; https://www.youtube.com/@phenyo-ditebo </br>
 
 Work Experience </br>
 - Mechatronics Engineering Intern, University of Waterloo - Winter 2026
+- Software Engineering Intern, University of Waterloo, Microsoft WEA AZ/AI - Summer 2025
 
 
 ## 🌐 Socials:
