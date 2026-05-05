@@ -5,8 +5,8 @@
 📽️ I also like to make videos about my projects. You can find them here; https://www.youtube.com/@phenyo-ditebo </br>
 
 Work Experience </br>
-- Mechatronics Engineering Intern, University of Waterloo - Winter 2026
-- AI Solutions Engineering Intern (via Avanade), Avanade - Summer 2025
+- Mechatronics Engineering Intern, UW Robotics Team - Winter 2026
+- AI Solutions Engineering Intern (via Avanade), University of Waterloo - Summer 2025
 
 
 ## 🌐 Socials:
