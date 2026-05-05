@@ -6,7 +6,7 @@
 
 Work Experience </br>
 - Mechatronics Engineering Intern, University of Waterloo - Winter 2026
-- Software Engineering Intern, University of Waterloo, Microsoft WEA AZ/AI - Summer 2025
+- AI Solutions Engineering Intern (via Avanade), Avanade - Summer 2025
 
 
 ## 🌐 Socials:
