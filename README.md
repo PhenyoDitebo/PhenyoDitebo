@@ -6,7 +6,7 @@
 
 Work Experience </br>
 - Mechatronics Engineering Intern, UW Robotics Team - Winter 2026
-- AI Solutions Engineering Intern (via Avanade), University of Waterloo - Summer 2025
+- Cloud & AI Solutions Engineering Intern (via Avanade & Microsoft), University of Waterloo - Summer 2025
 
 
 ## 🌐 Socials:
