@@ -1,6 +1,6 @@
 # My name is Phenyo Ditebo.
 
-🤖 I am a Mechatronics Engineering student @UWaterloo. </br>
+🤖 I am a Mechatronics Engineering Student @UWaterloo. </br>
 🦾 I specialise in Robotics and AI. </br>
 📽️ I also like to make videos about my projects. You can find them here; https://www.youtube.com/@phenyo-ditebo </br>
 
