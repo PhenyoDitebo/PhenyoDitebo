@@ -5,6 +5,7 @@
 📽️ I also like to make videos about my projects. You can find them here; https://www.youtube.com/@phenyo-ditebo </br>
 
 Work Experience </br>
+- Control Systems Software Designer, ATS Corporation - Fall 2026
 - Mechatronics Engineering Intern, UW Robotics Team - Winter 2026
 - Cloud & AI Solutions Engineering Intern (via Avanade & Microsoft), University of Waterloo - Summer 2025
 
